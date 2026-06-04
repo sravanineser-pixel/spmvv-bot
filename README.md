@@ -21,7 +21,7 @@
 ### 🚀 How to Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/sravanineser-pixel/spmvv-bot.git
+git clone https://github.com/sravanineser-pixel/sathi-spmvv-bot.git
 
 # Install requirements
 pip install -r requirements.txt
