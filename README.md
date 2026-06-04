@@ -3,7 +3,7 @@
 **Your SPMVV Guide** - A chatbot to help students with hostel, course, and admission queries for Sri Padmavati Mahila Visvavidyalayam.
 
 ### 🌐 Live App
-**Link**: [spmvv-bot-8ruvx2vmfazxraau77epyr.streamlit.app](https://spmvv-bot-8ruvx2vmfazxraau77epyr.streamlit.app)
+**Link**: https://sathi-spmvv-bot-8ruvx2vmfazxraau77epyr.streamlit.app/
 
 ### ✨ Features
 - **Hostel Info**: Names, fees ~₹4,000/month, admission process
